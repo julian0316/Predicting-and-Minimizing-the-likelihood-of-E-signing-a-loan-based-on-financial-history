@@ -6,11 +6,14 @@ Lending companies work by analyzing the financial history of their loan applican
 
 In this project, we are going to assess the quality of the leads our company receives from these marketplaces. 
 
-# Market: The target audience is the set of loan applications who reached out through an intermediary marketplace.
+# Market:
+The target audience is the set of loan applications who reached out through an intermediary marketplace.
 
-# Product: A Loan
+# Product: 
+A Loan
 
-# Goal: Develop a model to predict for quality applicants. In this case study, “quality” applicants are those who reach a key part of the loan application process.
+# Goal: 
+Develop a model to predict for quality applicants. In this case study, “quality” applicants are those who reach a key part of the loan application process.
 
 # Business Challenge:
 
