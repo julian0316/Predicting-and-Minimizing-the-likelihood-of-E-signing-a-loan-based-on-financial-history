@@ -13,7 +13,7 @@ The target audience is the set of loan applications who reached out through an i
 A Loan
 
 # Goal: 
-Develop a model to predict for quality applicants. In this case study, “quality” applicants are those who reach a key part of the loan application process.
+Develop a model to predict for quality applicants. In this case study, “quality” applicants are those who reach a key part of the loan application process so retention efforts can be targeted to those applicants, causing an overall reduction (minimizing) of the churn rate.
 
 # Business Challenge:
 
