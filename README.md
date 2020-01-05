@@ -1,4 +1,4 @@
-# Predicting the likelihood of E-signing a loan based on financial history
+# Predicting and Minimizing the likelihood of E-signing a loan based on financial history
 
 # Overview:
 
